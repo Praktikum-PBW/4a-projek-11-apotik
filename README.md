@@ -74,3 +74,6 @@ UPDATE TUGAS 10
 
 
 ![update ui](https://user-images.githubusercontent.com/74490650/165948986-99da2014-2a18-4683-87d6-85a6b5383400.PNG)
+
+
+![ui list obat](https://user-images.githubusercontent.com/74490650/165950308-10e38467-0346-45aa-b243-8401cb072bee.PNG)
